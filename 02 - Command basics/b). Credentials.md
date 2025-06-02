@@ -36,7 +36,8 @@ ex for No. 3) Use AWS Named Profiles (Best for Local Development)
 Set up credentials in ~/.aws/credentials and specify a profile.
 
 Step 1: Configure ~/.aws/credentials
-
+ie nano or vim or vi  ~/.aws/credentials
+paste credentials as below:
 
 [my-profile]
 aws_access_key_id = YOUR_ACCESS_KEY
